@@ -156,18 +156,16 @@ nav {
 .list-contact-link:focus {
   color: var(--color-button-text);
 }
-
 .heder-soc-icon {
   fill: var(--primary-color-text-fon);
   margin-right: 10px;
 }
-
 .list-contact-link:hover .heder-soc-icon,
 .list-contact-link:focus .heder-soc-icon {
   fill: var(--color-button-text);
 }
 
-/* main    .main-studio {}   */
+/* main  */
 
 /* Секция hero */
 
